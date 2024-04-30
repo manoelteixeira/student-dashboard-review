@@ -3,7 +3,11 @@
 .navbar {
   grid-area: navbar;
   height: 100px;
-  display: grid;
-  place-items: center;
-  justify-items: center;
+  background-color: #0e3f60;
+  text-align: center;
+  align-content: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #2a814d;
 }
