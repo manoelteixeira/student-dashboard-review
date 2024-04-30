@@ -1,0 +1,8 @@
+// src/components/CohortList/cohortList.scss
+
+.cohort-list {
+  grid-area: cohort-list;
+  display: grid;
+  place-items: center;
+  justify-items: center;
+}

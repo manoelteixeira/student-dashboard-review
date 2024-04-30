@@ -1,0 +1,9 @@
+// src/components/Navbar/navbar.scss
+
+.navbar {
+  grid-area: navbar;
+  height: 100px;
+  display: grid;
+  place-items: center;
+  justify-items: center;
+}

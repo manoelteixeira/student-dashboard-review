@@ -1,0 +1,8 @@
+// src/components/StudentList/studentList.scss
+
+.student-list {
+  grid-area: student-list;
+  display: grid;
+  place-items: center;
+  justify-items: center;
+}
